@@ -30,7 +30,7 @@ export const Hero = () => {
       Contact Me
     </motion.a>
     <motion.a
-      href="/assets/public/rodina_adel_cv.pdf"  
+      href="/public/rodina_adel_cv.pdf"  
        target="_blank"
   rel="noopener noreferrer"
       className={styles.cvBtn}
