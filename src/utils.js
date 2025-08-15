@@ -1,1 +1,2 @@
-export const getImageUrl = (path) => `/assets/${path}`;
+export const getImageUrl = (path) =>
+  new URL(`../assets/${path}`, import.meta.url).href;
