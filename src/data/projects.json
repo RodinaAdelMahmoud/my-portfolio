@@ -1,0 +1,61 @@
+[
+  {
+    "title": "Mohameek",
+    "imageSrc": "projects/MOHAMEEK.60da097692b6fa446257.png",
+    "description": "SaaS platform with an admin portal and dashboard, enabling businesses to manage operations and track data efficiently.",
+    "skills": ["MongoDB", "NestJS", "Node", "Swagger"],
+    "demo": "https://mohameek-backend.onrender.com/mohameek-backend/docs#/",
+    "type": "company"
+  },
+  {
+    "title": "OBH",
+    "imageSrc": "projects/OBH.5e0b27e57ebd300e4b4b.png",
+    "description": "ERP system for law firms with mobile apps, a website, and an admin portal to improve legal service efficiency.",
+    "skills": ["MongoDB", "NestJS", "Node", "Swagger"],
+    "demo": "https://obh-backend.onrender.com/obh-backend/docs#/",
+    "type": "company"
+  },
+  {
+    "title": "LMS Platform",
+    "imageSrc": "projects/Screenshot 2025-04-20 135201.png",
+    "description": "Learning platform with authentication, course enrollment, wallet payments, and certificate generation.",
+    "skills": ["MongoDB", "NestJS", "Node", "Swagger"],
+    "demo": "https://drive.google.com/drive/folders/1CKQPFTKB33A_3c3bkOpWCVM-dH8uTXvy?usp=sharing",
+    "type": "company"
+  },
+  {
+    "title": "Ejad App",
+    "imageSrc": "projects/ejadapp.jpg",
+    "description": "School management platform with features like school profile management, photo albums, material downloads tracking, and aggregation-based search. Implemented JWT authentication, role-based access, and file uploads for a seamless experience.",
+    "skills": ["MongoDB", "Express", "Node", "Postman"],
+    "private": true,
+    "type": "company"
+  },
+  {
+    "title": "Task Management System (Express)",
+    "imageSrc": "projects/taskmanagement.png",
+    "description": "Task management system with JWT authentication, role-based access, task history tracking, and audit logs.",
+    "skills": ["MongoDB", "Express", "Node", "JWT"],
+    "demo": "https://github.com/RodinaAdelMahmoud/task-management",
+    "linkLabel": "View Source",
+    "type": "personal"
+  },
+  {
+    "title": "Task Management System (NestJS)",
+    "imageSrc": "projects/task.png",
+    "description": "Advanced task management system built with NestJS, featuring role-based access control, audit logging, and scalable architecture.",
+    "skills": ["MongoDB", "NestJS", "Node", "JWT"],
+    "demo": "https://github.com/RodinaAdelMahmoud/task-nest",
+    "linkLabel": "View Source",
+    "type": "personal"
+  },
+  {
+    "title": "Ecommerce App (Express)",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "Ecommerce backend with product management, authentication, shopping cart, and order processing APIs.",
+    "skills": ["MongoDB", "Express", "Node", "JWT"],
+    "demo": "https://github.com/RodinaAdelMahmoud/Ecommerce-NodeJS",
+    "linkLabel": "View Source",
+    "type": "personal"
+  }
+]

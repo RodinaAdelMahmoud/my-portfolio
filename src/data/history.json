@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Backend Developer",
+    "organisation": "Spiritude",
+    "startDate": "July 2024",
+    "endDate": "July 2025",
+    "experiences": [
+     "Developed and maintained backend services using Node.js, NestJS, and MongoDB",
+      "Built RESTful APIs with role-based authentication, JWT, and file handling",
+      "Optimized MongoDB queries, reducing response times by 40%",
+      "Collaborated with front-end teams to integrate APIs and improve UX"
+    ],
+    "imageSrc": "history/spiritude.jpg"
+  }
+]

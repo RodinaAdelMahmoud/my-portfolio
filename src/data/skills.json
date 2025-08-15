@@ -1,0 +1,44 @@
+[
+   {
+    "category": "Backend",
+    "skills": [
+      { "title": "Node.js", "imageSrc": "skills/node.png" },
+      { "title": "Express.js", "imageSrc": "skills/express.png" },
+      { "title": "NestJS", "imageSrc": "skills/NestJS.svg.png" },
+      { "title": "GraphQL", "imageSrc": "skills/graphql.png" },
+      { "title": "MongoDB", "imageSrc": "skills/mongoDB.png" },
+      { "title": "PostgreSQL", "imageSrc": "skills/postgresql.png" },
+      { "title": "MySQL", "imageSrc": "skills/mysql.png" },
+      { "title": "Redis", "imageSrc": "skills/redis_plain_logo_icon_146366.png" }, 
+      { "title": "JWT", "imageSrc": "skills/jwt.png" },
+      { "title": "Docker", "imageSrc": "skills/docker.png" }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "skills": [
+      { "title": "HTML", "imageSrc": "skills/html.png" },
+      { "title": "CSS", "imageSrc": "skills/css.png" },
+      { "title": "JavaScript", "imageSrc": "skills/javascript.png" },
+      { "title": "TypeScript", "imageSrc": "skills/typescript.png" },
+      { "title": "React", "imageSrc": "skills/react.png" },
+      { "title": "jQuery", "imageSrc": "skills/jquery.png" }
+    ]
+  },
+ 
+  {
+    "category": "Other Technologies",
+    "skills": [
+      { "title": "Git", "imageSrc": "skills/git.png" },
+      { "title": "GitHub", "imageSrc": "skills/github.png" },
+      { "title": "REST APIs", "imageSrc": "skills/restapi.png" }
+    ]
+  },
+  {
+    "category": "Programming Languages",
+    "skills": [
+      { "title": "C++", "imageSrc": "skills/cpp.png" },
+      { "title": "Python", "imageSrc": "skills/python.png" }
+    ]
+  }
+]

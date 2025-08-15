@@ -1,0 +1,77 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 79px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.history {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+.historyItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 17px;
+  background: linear-gradient(90deg, #19376d 0%, rgba(25, 55, 109, 0) 100%);
+  border-radius: 10px;
+  padding: 20px 24px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.historyItem:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+.historyItem img {
+  width: 100px;
+  height: auto;
+  border-radius: 6px;
+}
+
+.historyItemDetails h3 {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.historyItemDetails h3 span {
+  font-weight: 400;
+  color: #aabbee;
+}
+
+.historyItemDetails p {
+  font-size: 18px;
+  font-weight: 300;
+  margin-bottom: 6px;
+}
+
+.historyItemDetails ul {
+  list-style-position: inside;
+  font-size: 18px;
+  margin-top: 6px;
+}
+
+@media screen and (max-width: 830px) {
+  .historyItem {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .historyItem img {
+    width: 80px;
+  }
+}
