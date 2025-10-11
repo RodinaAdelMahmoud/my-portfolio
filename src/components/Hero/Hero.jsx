@@ -13,7 +13,7 @@ export const Hero = () => {
   transition={{ duration: 1 }}
 >
   <span className={styles.tagline}>
-    💻 Passionate Backend Developer | API Specialist
+    💻 Passionate Backend Developer 
   </span>
   <h1 className={styles.title}>Hi, I’m Rodina Adel</h1>
   <p className={styles.description}>
