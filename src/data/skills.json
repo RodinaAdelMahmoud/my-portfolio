@@ -5,6 +5,8 @@
       { "title": "Node.js", "imageSrc": "skills/node.png" },
       { "title": "Express.js", "imageSrc": "skills/express.png" },
       { "title": "NestJS", "imageSrc": "skills/NestJS.svg.png" },
+      { "title": ".Net Core", "imageSrc": "skills/dotnet.png" },
+      { "title": "C#", "imageSrc": "skills/C.png" },
       { "title": "GraphQL", "imageSrc": "skills/graphql.png" },
       { "title": "MongoDB", "imageSrc": "skills/mongoDB.png" },
       { "title": "PostgreSQL", "imageSrc": "skills/postgresql.png" },
