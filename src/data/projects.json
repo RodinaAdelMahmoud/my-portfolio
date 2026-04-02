@@ -30,6 +30,22 @@
     "skills": ["MongoDB", "Express", "Node", "Postman"],
     "private": true,
     "type": "company"
+  },{
+    "title": "Scientifically Fit(React & NodeJS)",
+    "imageSrc": "projects/Scientifically fit.ico",
+    "description": " Scientifically Fit as a full-stack project, covering backend services using Nodejs , React frontend,system architecture, and complete deployment",
+    "skills": ["MongoDB", "Nest", "Node", "React"],
+    "demo": "https://scientifically-fit.vercel.app/",
+    "linkLabel": "View Source",
+    "type": "personal"
+  },{
+    "title": "Ceronova (WordPress)",
+    "imageSrc": "projects/ceronova.png",
+    "description": "Built and delivered a WordPress website (Ceronova), including UI customization, responsive design, and deployment.",
+    "skills": [ "WordPress"],
+    "demo": "https://ceronova.com/",
+    "linkLabel": "View Source",
+    "type": "personal"
   },
   {
     "title": "Task Management System (Express)",
@@ -58,4 +74,5 @@
     "linkLabel": "View Source",
     "type": "personal"
   }
+  
 ]

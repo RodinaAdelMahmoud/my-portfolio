@@ -19,16 +19,24 @@ export const About = () => {
 
         {/* About Text */}
         <div className={styles.textContainer}>
-    <p>
-  I’m <strong>Rodina Adel</strong>, a Backend Developer from Alexandria, Egypt. With 1 year of experience at Spiritude LTD, I specialize in <strong>Node.js</strong>, <strong>Express</strong>, <strong>NestJS</strong>, and <strong>MongoDB</strong>. I hold a Bachelor’s degree in <strong>Computers and Information Technology</strong> from the Egyptian E-Learning University (Graduated 2024).
-</p>
+          <p>
+            I’m <strong>Rodina Adel</strong>, a Software Developer based in Alexandria, Egypt. 
+            I have hands-on experience building scalable backend systems and full-stack applications 
+            using <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Express.js</strong>, 
+            <strong>React</strong>, and <strong>MongoDB</strong>.
+          </p>
 
-<ul>
-  <li>⚡ Build scalable, secure APIs</li>
-  <li>🗄️ Optimize database performance</li>
-  <li>🚀 Deliver clean, maintainable code</li>
-</ul>
+          <p>
+            I’ve worked at Spiritude LTD and as a freelance developer, delivering real-world solutions 
+            including ERP systems, LMS platforms, and custom web applications. I’m passionate about 
+            writing clean, maintainable code and designing efficient system architectures.
+          </p>
 
+          <ul>
+            <li>⚡ Build scalable and secure APIs</li>
+            <li>🗄️ Design and optimize databases</li>
+            <li>🚀 Develop full-stack web applications</li>
+          </ul>
         </div>
       </div>
     </section>

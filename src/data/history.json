@@ -1,4 +1,13 @@
-[
+[ {
+    "role": "Freelance Developer",
+    "startDate": "August 2025",
+    "endDate": "Present",
+    "experiences": [
+     "Developed Scientifically Fit as a full-stack project, covering backend services using Node.js, React frontend, system architecture, and complete deployment.",
+      "Built and delivered a WordPress website (Ceronova), including UI customization, responsive design, and deployment.",
+      "Developed backend systems for a mobile application, including API design, authentication, and database integration."    ],
+    "imageSrc": "skills/github.png"
+  },
   {
     "role": "Backend Developer",
     "organisation": "Spiritude",
@@ -12,4 +21,5 @@
     ],
     "imageSrc": "history/spiritude.jpg"
   }
+ 
 ]
