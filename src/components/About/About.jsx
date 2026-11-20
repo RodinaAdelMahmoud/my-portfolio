@@ -20,22 +20,24 @@ export const About = () => {
         {/* About Text */}
         <div className={styles.textContainer}>
           <p>
-            I’m <strong>Rodina Adel</strong>, a Software Developer based in Alexandria, Egypt. 
-            I have hands-on experience building scalable backend systems and full-stack applications 
-            using <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>Express.js</strong>, 
-            <strong>React</strong>, and <strong>MongoDB</strong>.
+            I’m <strong>Rodina Adel</strong>, a Backend Software Engineer based in Alexandria, Egypt,
+            with ~2 years of experience building production services using <strong>NestJS</strong>,{" "}
+            <strong>Node.js</strong>, <strong>PostgreSQL</strong>, <strong>Redis</strong>,{" "}
+            <strong>Firebase</strong>, and <strong>Google Cloud</strong>.
           </p>
 
           <p>
-            I’ve worked at Spiritude LTD and as a freelance developer, delivering real-world solutions 
-            including ERP systems, LMS platforms, and custom web applications. I’m passionate about 
-            writing clean, maintainable code and designing efficient system architectures.
+            At <strong>AlphaWave Software</strong> I own the B2B backend of the Inqlha logistics
+            platform, make production release decisions, and build services like an event-driven
+            email microservice and unified app analytics. Before that I built ERP and LMS systems
+            at Spiritude LTD and delivered freelance web projects. I care about clean,
+            maintainable code and well-designed systems.
           </p>
 
           <ul>
             <li>⚡ Build scalable and secure APIs</li>
             <li>🗄️ Design and optimize databases</li>
-            <li>🚀 Develop full-stack web applications</li>
+            <li>☁️ Ship event-driven services on Google Cloud</li>
           </ul>
         </div>
       </div>

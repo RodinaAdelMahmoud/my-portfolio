@@ -13,15 +13,15 @@ export const Hero = () => {
         transition={{ duration: 1 }}
       >
         <span className={styles.tagline}>
-          💻 Software Developer | Full-Stack Engineer
+          💻 Backend Software Engineer | NestJS · Google Cloud
         </span>
 
         <h1 className={styles.title}>Hi, I’m Rodina Adel</h1>
 
         <p className={styles.description}>
-          I build <strong>scalable backend systems</strong> and 
-          <strong> modern web applications</strong> using Node.js, NestJS, and React — 
-          delivering efficient, real-world solutions.
+          I build <strong>production backend systems</strong> and
+          <strong> event-driven microservices</strong> with NestJS, PostgreSQL, and
+          Google Cloud — currently owning the B2B backend of a logistics platform.
         </p>
 
         <div className={styles.actions}>

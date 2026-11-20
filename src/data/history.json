@@ -1,25 +1,42 @@
-[ {
+[
+  {
+    "role": "Backend Software Engineer",
+    "organisation": "AlphaWave Software",
+    "startDate": "February 2026",
+    "endDate": "Present",
+    "experiences": [
+      "Own the Inqlha B2B backend end to end — clients/vendors, subscriptions, authentication, archiving, and deployments (Cloud Build → Cloud Run).",
+      "Make go/no-go production release decisions based on QA bug reports and my own risk assessment.",
+      "Designed and built an event-driven email microservice: services publish to GCP Pub/Sub, a push-subscribed Cloud Run service sends templated emails via Microsoft Graph.",
+      "Built unified app analytics merging Apple App Store Connect and Google Play reports into single dashboard endpoints.",
+      "Built a NestJS chatbot with a multi-step state machine supporting Arabic and English; led planning for a Gemini tool-calling migration.",
+      "Security & reliability: Firebase App Check, Redis-based OTP rate limiting, push-notification deduplication, and guest-mode tokens.",
+      "Also work on Nest (coworking booking backend), Luckystar, and Last Mile; mentor a junior backend developer."
+    ],
+    "imageSrc": "history/alphawave.svg"
+  },
+  {
     "role": "Freelance Developer",
     "startDate": "August 2025",
     "endDate": "Present",
     "experiences": [
-     "Developed Scientifically Fit as a full-stack project, covering backend services using Node.js, React frontend, system architecture, and complete deployment.",
+      "Built and maintain Scientifically Fit (scientifically-fit.com), an evidence-based coaching website for Dr. Mohamed Adel, using Hostinger Horizons — UI improvements, content, and custom-domain deployment.",
       "Built and delivered a WordPress website (Ceronova), including UI customization, responsive design, and deployment.",
-      "Developed backend systems for a mobile application, including API design, authentication, and database integration."    ],
+      "Developed backend systems for a mobile application, including API design, authentication, and database integration."
+    ],
     "imageSrc": "skills/github.png"
   },
   {
     "role": "Backend Developer",
     "organisation": "Spiritude",
     "startDate": "July 2024",
-    "endDate": "July 2025",
+    "endDate": "June 2025",
     "experiences": [
-     "Developed and maintained backend services using Node.js, NestJS, and MongoDB",
+      "Developed and maintained backend services using Node.js, NestJS, and MongoDB",
       "Built RESTful APIs with role-based authentication, JWT, and file handling",
       "Optimized MongoDB queries, reducing response times by 40%",
       "Collaborated with front-end teams to integrate APIs and improve UX"
     ],
     "imageSrc": "history/spiritude.jpg"
   }
- 
 ]
