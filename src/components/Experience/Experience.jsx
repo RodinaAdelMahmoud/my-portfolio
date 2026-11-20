@@ -12,11 +12,16 @@ export const Experience = () => {
           <li key={id} className={styles.historyItem}>
             <img
               src={getImageUrl(historyItem.imageSrc)}
-              alt={`${historyItem.organisation} Logo`}
+              alt={`${historyItem.organisation || historyItem.role} Logo`}
             />
             <div className={styles.historyItemDetails}>
               <h3>
-                {historyItem.role}, <span>{historyItem.organisation}</span>
+                {historyItem.role}
+                {historyItem.organisation && (
+                  <>
+                    , <span>{historyItem.organisation}</span>
+                  </>
+                )}
               </h3>
               <p>{`${historyItem.startDate} - ${historyItem.endDate}`}</p>
               <ul>
